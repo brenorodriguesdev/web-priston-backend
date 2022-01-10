@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brenorodriguesdev/web-priston-backend/issues"
   },
-  "homepage": "https://github.com/brenorodriguesdev/web-priston-backend#readme"
+  "homepage": "https://github.com/brenorodriguesdev/web-priston-backend#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
